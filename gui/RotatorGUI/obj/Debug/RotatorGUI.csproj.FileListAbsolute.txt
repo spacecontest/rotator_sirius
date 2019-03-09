@@ -1,0 +1,14 @@
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\bin\Debug\RotatorGUI.exe.config
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\bin\Debug\RotatorGUI.exe
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\bin\Debug\RotatorGUI.pdb
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.csprojAssemblyReference.cache
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.MainForm.resources
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.Properties.Resources.resources
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.csproj.GenerateResource.cache
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.csproj.CoreCompileInputs.cache
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.exe
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.pdb
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\bin\Debug\RotatorGUI.exe.manifest
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\bin\Debug\RotatorGUI.application
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.exe.manifest
+D:\Dubos\Desktop\Сириус\RotatorGUI\RotatorGUI\obj\Debug\RotatorGUI.application
